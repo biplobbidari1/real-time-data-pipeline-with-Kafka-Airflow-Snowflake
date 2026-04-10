@@ -1,0 +1,6 @@
+pandas
+kafka-python
+apache-airflow
+snowflake-connector-python
+sqlalchemy
+psycopg2-binary

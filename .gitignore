@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+env/
+
+# Airflow
+airflow.cfg
+airflow-webserver.pid
+logs/
+
+# Secrets
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
